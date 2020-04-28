@@ -1,0 +1,385 @@
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+x
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone x:167
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=1 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=2 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=3 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=4 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=4 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=5 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=5 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=6 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=6 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=7 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=7 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+x
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone x:167
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=1 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=2 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=3 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=4 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=4 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=5 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=5 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=6 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=6 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=7 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=7 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 504 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+x
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone x:167
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=1 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=2 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=3 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=4 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=4 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=5 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=5 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=6 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=6 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=7 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=7 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=moto+e3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=moto+e3 HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for moto e3:14
+INFO:root:Only first page found
+INFO:root:Checking page url: https://www.flipkart.com/search?q=moto+e3&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=moto+e3&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=moto+e3&page=1 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=moto+e3&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=moto+e3&page=1 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+X
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone X:167
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=1 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=2 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=2 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=3 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=3 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=4 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=4 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=5 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=5 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=6 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=6 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=7 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=7 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=3 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=vu+32+led
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=vu+32+led HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for vu 32 led:7
+INFO:root:Only first page found
+INFO:root:Checking page url: https://www.flipkart.com/search?q=vu+32+led&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=vu+32+led&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=vu+32+led&page=1 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=vu+32+led&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=vu+32+led&page=1 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+X
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone X:167
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=1 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=2 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=2 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=3 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=3 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=4 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=4 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=5 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=5 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=6 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=6 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+X&page=7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=7 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+X&page=7 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=3 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=4 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=5 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=6 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+X&page=7 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+XR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+XR HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone XR:18
+INFO:root:Only first page found
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+XR&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+XR&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+XR&page=1 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+XR&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+XR&page=1 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+x
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone x:167
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=1 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=2 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=3 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=4 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=4 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=5 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=5 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=6 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=6 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=7 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=7 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=4 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=5 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=6 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=7 HTTP/1.1" 200 None
+INFO:root:Checking Url: https://www.flipkart.com/search?q=iphone+x
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x HTTP/1.1" 200 None
+INFO:root:Url is Valid, initiating scraping
+INFO:root:Number of results for iphone x:174
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=1 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=2 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=3 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=4 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=4 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=5 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=5 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=6 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=6 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=7 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=7 is valid
+INFO:root:Checking page url: https://www.flipkart.com/search?q=iphone+x&page=8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=8 HTTP/1.1" 200 None
+INFO:root:https://www.flipkart.com/search?q=iphone+x&page=8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+ERROR:root:screen type cannot be recognized
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=3 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=4 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=5 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=6 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=7 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /search?q=iphone+x&page=8 HTTP/1.1" 200 None
