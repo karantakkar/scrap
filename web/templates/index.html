@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E comm</title>
+</head>
+<body>
+    <ol>
+
+        {% for i,item in product_list %}
+        <li>
+            <ul>
+                <li>
+                    Name : {{item}}
+                </li>
+                <li>
+                    Flipkart Price : {{flipkart_price_list[i]}}
+                    <button>BUY NOW</button>
+                </li>
+
+                <li>
+                    Amazon Price :{{amazon_price_list[i]}}
+                    <button>BUY NOW</button>
+                </li>
+                
+            </ul>
+        </li>
+    {% endfor %}
+
+    </ol>
+</body>
+</html>
